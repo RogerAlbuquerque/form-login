@@ -39,13 +39,13 @@ background-position: 10px;
 
 
 input.email{
-background-image: url(imagens/formulario/icone-usuario.png);
+background-image: url(imagens/icone-usuario.png);
 
 
 }
 
 input.senha{
-background-image: url(imagens/formulario/icone-cadeado.png);
+background-image: url(imagens/icone-cadeado.png);
 
 
 }
